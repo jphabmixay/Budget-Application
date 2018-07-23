@@ -1,2 +1,1 @@
-# csc340---BudgetApp
-2nd year, 4th Semester project that tested data structure in the forms of trees, templates, arraylists, I/O files, etc.
+Early-learning, individual C++ project focused on self-implementation of existing collections, such as linked-lists and overload operators Used headers to manage a large collection of files and directories. Worked with data structure for managing an account with budget using trees, templates, arraylists, I/O files, classes.
